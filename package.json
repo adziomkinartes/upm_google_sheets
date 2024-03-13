@@ -1,0 +1,18 @@
+{
+    "name": "com.adziomkin.upmgooglesheetsv4",
+    "version": "1.0.0",
+    "unity": "2021.3",
+    "displayName": "GoogleSheets v4",
+    "description": "Simple upm wrapper for libraries needed to work with google sheets.",
+    "keywords": [
+        "google",
+        "sheets",
+        "googlesheets",
+        "unity"
+    ],
+    "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.0.1"
+    },
+    "license": "Apache-2.0",
+    "licensesUrl": "https://github.com/GlitchEnzo/NuGetForUnity/blob/master/LICENSE"
+}
