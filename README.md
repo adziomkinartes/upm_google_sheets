@@ -3,6 +3,6 @@
 Google.Apis.Sheets.v4 libraries wrapped as unity package.
 
 ## Installation
-Use this URL to add it in the Unity's PackageManager window.
+Use this URL to add it to your project in the Unity PackageManager window.
 
-https://github.com/diomich/upm_google_sheets.git
+https://github.com/adziomkinartes/upm_google_sheets.git
